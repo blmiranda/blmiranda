@@ -1,8 +1,11 @@
 # Hi there, I'm Brian!✋
 
-- 🔭 I’m currently searching for a job experience in web developement
-- 🌱 I’m currently learning React.js and Node.js
+- 🔭 I’m currently working on a To Do list website
+- 🌱 I’m currently learning <strong>React.js and Node.js</strong>
+- 🖥️ I'm looking to colaborate on <strong>OpenSource Projects</strong>
+- 🧑‍💻 I'm also searching for a job experience in web developement
 - 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play games very often.
 
 [![Website](https://img.shields.io/website?label=brianmiranda.dev&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://brianmiranda.dev)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianmirandadev/)
@@ -31,3 +34,5 @@
 <img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+
