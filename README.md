@@ -11,7 +11,7 @@
 
 - 🧑‍💻 I'm also searching for a **job experience in web development.**
 
-- 🎨 All of my projects are available at **[My Portfolio](https://brianmiranda.dev)**
+- 🎨 All of my projects are available at **[My Portfolio](https://www.brianmiranda.dev)**
 
 - 📫 How to reach me **brianmiranda.dev@gmail.com**
 
